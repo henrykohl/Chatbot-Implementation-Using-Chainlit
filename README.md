@@ -122,3 +122,28 @@ async def main(message: cl.Message):
         content=f"Received: {message.content}",
     ).send()
 ```    
+
+* 問題
+```
+hi
+
+Hi I am Henry. I need something for dinner, what do you recommend?
+
+I need to see the menu
+
+i will go with Indian food
+
+add Chicken Tikka Masala with Rice in the cart
+
+no , its fine
+
+delivery
+
+sure, note that address: 17th Floor tower A Brigade Signature Towers
+
+no thank you
+
+cash on delivery
+
+thank you
+```
